@@ -1,0 +1,8 @@
+Pages\InspectorQueuePage.class
+Pages\ServicesPage.class
+Pages\PageBase.class
+Pages\TransactionSearchPage.class
+Pages\PaymentPage.class
+Pages\TransactionDetailsPage.class
+Pages\LoginPage.class
+Pages\PaymentinadvancePage.class
